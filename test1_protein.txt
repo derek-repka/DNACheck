@@ -1,0 +1,3 @@
+# this is one protein encoded by the DNA sequence in
+# RGS5_template_dna.txt
+MAEKAKQIYEEFIQTEAPKEVNIDHFTKDITMKNLVEPSLSSFDMAQKRIHALMEKDSLPRFVRSEFYQELIK

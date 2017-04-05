@@ -1,0 +1,2 @@
+# this is the RNA input sequence used as an example in the lab 
+UAGGGUUUCUGCCAAGAGAU
